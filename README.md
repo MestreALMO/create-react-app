@@ -1,3 +1,10 @@
+# Includes:
+
+- create react-app
+- [MUI + MUI icons](https://mui.com/material-ui/getting-started/installation/)
+
+<hr />
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
